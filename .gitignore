@@ -36,6 +36,7 @@ sysinfo.txt
 ## Build generated
 iOS/build/
 iOS/DerivedData/
+iOS/UnityPlugin/*
 
 ## Various settings
 *.pbxuser
